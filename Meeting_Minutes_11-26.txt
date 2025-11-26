@@ -1,0 +1,4 @@
+ - Put project statements/ problem into the repo
+ - Discussed division of tasks, work together for feature making/ evaluating and basic fucntions/models (L2 Model) 
+ - Models will be divided one per person-- AUC, F1, XGBoost
+ - Posisble meeting Saturday to work on discussed fucntions
